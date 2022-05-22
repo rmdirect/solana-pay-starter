@@ -1,5 +1,5 @@
 .background_blur{
-  background-image: url(../public/blur-bg.png);
+  background-image: url(../public/bgimg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -25,15 +25,15 @@
 }
 
 .create_product_form {
-  color: white;
+  color: #FFF8DC;
   display: flex;
   flex-direction: column;
 }
 
 .button {
   width: 99%;
-  background-color: white;
-  color: black;
+  background-color: #FFF8DC;
+  color: #293849;
   transition: 0.3s;
   margin: 10px 0;
   align-self: flex-start;
@@ -43,15 +43,15 @@
 }
 
 .button:hover {
-  background-image: url(../public/blur-bg.png);
-  color: white;
+  background-color: #293849;
+  color: #FFF8DC;
   -webkit-animation: bg-pan-left 2s linear infinite alternate both;
   animation: bg-pan-left 2s ease-in-out infinite alternate both;
 }
 
 .header {
   text-align: center;
-  background-image: url(../public/blur-bg.png);
+  background-image: url(../public/dkbg.png);
   padding: 0 150px;
   border-radius: 10px 10px 0 0;
 }

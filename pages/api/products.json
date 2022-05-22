@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Apoth Shop E-Book",
+    "price": "0.09",
+    "description": "Get this informational e-book for only $0.09!",
+    "image_url": "https://i.postimg.cc/wjVKDTLK/brochure-IMG.png",
+    "filename": "Apoth Shop.Brochure.pdf",
+    "hash": "QmdVEx6aBWaUgqke7Aj1ab9LNE89LK2MopWLb7ZGQ4KsGQ"
+  },
+  {
+    "id": 2,
+    "name": "Dandelion Root",
+    "price": "0.09",
+    "image_url": "https://i.postimg.cc/hvDkbq2j/metaimg.png",
+    "description": "Get this informational e-book to learn the benefits of Dandelion Root!",
+    "filename": "Apoth Shop.Dandelion.pdf",
+    "hash": "QmfGJQMtbecAtquwo72sjTeByJZVda14BrHWsxQPUzwqUt"
+  }
+]
